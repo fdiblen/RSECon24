@@ -6,6 +6,7 @@ These are the instructions to install required tool to get you ready for the RSE
 14:30-15:45 Tuesday, 3 September, 2024, 2.16 (Classroom)
 
 [Submission details](https://virtual.oxfordabstracts.com/#/event/49081/submission/99)
+
 [Calendarlink](https://virtual.oxfordabstracts.com/#/event/49081/session/117905)
 
 ## Computer
